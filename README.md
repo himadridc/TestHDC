@@ -1,2 +1,2 @@
 # TestHDC
-Git tutorial
+Git tutorial for git commands demonstration
